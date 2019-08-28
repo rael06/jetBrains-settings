@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="fake_participants_table _maker" type="PHP" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="nfo" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

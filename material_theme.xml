@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseTabs" value="true" />
+    <option name="selectedTheme" value="LIGHTER" />
+    <option name="userId" value="-7c7e8a37:16bf4e74dcc:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>
