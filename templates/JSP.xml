@@ -1,0 +1,3 @@
+<templateSet group="JSP">
+  <template name="&lt;%" value="&lt;%  %&gt;" toReformat="false" toShortenFQNames="true" />
+</templateSet>
