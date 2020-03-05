@@ -4,7 +4,7 @@
     <property name="created">2019-07-16T09:34:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-01-09T20:39:44</property>
+    <property name="modified">2020-03-05T12:25:34</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -30,6 +30,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="91b859" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
