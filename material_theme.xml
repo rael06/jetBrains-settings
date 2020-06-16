@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="customTreeIndentEnabled" value="true" />
+    <option name="highContrast" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -14,6 +17,6 @@
     <option name="accentColor" value="00bcd4" />
     <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="-7c7e8a37:16bf4e74dcc:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
